@@ -1,16 +1,13 @@
-## Hi there 👋
+Boas vindas ao meu perfil 
 
-<!--
-**Luiz-anderlaine-99/luiz-anderlaine-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+• Meu nome é Luiz Henrique Milani
 
-Here are some ideas to get you started:
+• Estou estudando no alura 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+• Estou me desenvoçvendo na linguagem JavaScript
+
+• Utilizo o espaço para minha organizção e compartilhamento dos meus projetos desenvolvidos 
+
+Você pode entrar em contato comigo: 
+
+ henrique.milani.luiz@escola.pr.gov.br 
