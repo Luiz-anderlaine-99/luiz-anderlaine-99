@@ -4,7 +4,7 @@ Boas vindas ao meu perfil
 
 • Estou estudando no alura 
 
-• Estou me desenvoçvendo na linguagem JavaScript
+• Estou me desenvolvendo na linguagem JavaScript
 
 • Utilizo o espaço para minha organizção e compartilhamento dos meus projetos desenvolvidos 
 
